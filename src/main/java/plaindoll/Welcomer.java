@@ -8,6 +8,6 @@ public class Welcomer{
 		return "Farewell, good hunter. May you find your worth in waking world.";
 	}
 	public String sayGun() {
-		return "A hunter shoots a gun at ducks";
+		return "A hunter shoots a gun at ducks!";
 	}
 }
